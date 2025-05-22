@@ -1,4 +1,3 @@
-[⚠️ Suspicious Content] 
 # Hi! I'm Alberto
 I'm a FrontEnd Developer from Mexico! You're always welcome to say hi and come to my country! 
 
